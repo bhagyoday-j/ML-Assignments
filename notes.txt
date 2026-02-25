@@ -1,0 +1,5 @@
+Numpy creating arrays : create a Numpy ndarray object
+
+python -m venv venv
+venv\Scripts\activate
+pip install package_name
