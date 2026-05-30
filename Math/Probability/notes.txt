@@ -1,0 +1,13 @@
+Types of probability
+
+1) Empirical probability
+    calculated as number of times the event occurs divided by the total number of incident observed.
+
+2) Theoretical probability
+    the number of ways the particular event can occur divided by the total number of
+
+Join probability
+P(A intersection B) = P(A).P(B)
+
+Conditional probability
+P(A/B) = 
